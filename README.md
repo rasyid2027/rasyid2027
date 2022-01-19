@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+ <h2 align="center">Hi, I'm Halimur Rasyid MP</h2>
+</p>
 
-<!--
-**rasyid2027/rasyid2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://www.instagram.com/accidh/">
+      <img alt="Tests Passing" src="https://img.shields.io/badge/accidh-389-red?style=for-the-badge&logo=instagram&color=C13584&logoColor=C13584" />
+    </a>
+  </p>
 
-Here are some ideas to get you started:
+### I'm a Web Developer, Student, and Copywriter
+- :computer: I’m currently working on Woowa
+- 🌱 I’m currently learning everything what i want
+- ⚡ Fun fact: I love Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
