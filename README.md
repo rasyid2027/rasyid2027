@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <a href="https://www.instagram.com/accidh/">
+    <a href="https://www.instagram.com/accidh/" target="_blank">
       <img alt="Tests Passing" src="https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff" />
     </a>
-    <a href="https://medium.com/@qodr.achidh/about">
+    <a href="https://medium.com/@qodr.achidh/about" target="_blank">
       <img alt="Tests Passing" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=ffffff" />
     </a>
   </p>
