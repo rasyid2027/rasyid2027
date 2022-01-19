@@ -10,6 +10,6 @@
 
 ### I'm a Web Developer, Student, and Copywriter
 - :computer: I’m currently working on Woowa
-- 🌱 I’m currently learning everything what i want
-- ⚡ Fun fact: I love Her
+- :earth_asia: I’m currently learning everything what i want
+- :ring: Fun fact: I love Her
 
