@@ -40,8 +40,6 @@
 
 </details>
 
-<br />
-
 <details>
   <summary>Most Used Languages</summary>
 
