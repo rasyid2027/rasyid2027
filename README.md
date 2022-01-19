@@ -12,6 +12,8 @@
   </p>
 
 ### I'm a Web Developer, Student, and Copywriter
+
+- :indonesia: I'm Indonesian
 - :computer: I’m currently working on Woowa
 - :earth_asia: I’m currently learning everything what i want
 - :ring: Fun fact: I love Her
